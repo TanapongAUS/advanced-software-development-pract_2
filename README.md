@@ -7,7 +7,7 @@ This task demonstrates the use of queue and list.
 
 Example input output is shown below. User Input in **bold**
     <pre><code> 
-    <b> Input:
+    <b>Input:
     Sweeps 4 10.3
     Fluffy 9 11.3
     Socks 9 10.3
